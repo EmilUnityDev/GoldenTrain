@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚂 Golden Train
+# Golden Train
 
 ### Slot-inspired mobile puzzle game with cascading wins and train-themed bonus rounds
 
