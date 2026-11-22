@@ -8,15 +8,24 @@
 
 *Spin the symbols. Trigger cascades. Chase the next big win.*
 
-[**▶ Watch the Gameplay Trailer**](https://github.com/EmilUnityDev/GoldenTrain/releases/tag/v1.0.0-portfolio) &nbsp;·&nbsp; [**Explore the Architecture**](docs/ARCHITECTURE.md) &nbsp;·&nbsp; [**Gameplay Preview**](#gameplay-preview)
+[**▶ Full HD Trailer (1080p)**](https://github.com/EmilUnityDev/GoldenTrain/releases/tag/v1.0.0-portfolio) &nbsp;·&nbsp; [**Explore the Architecture**](docs/ARCHITECTURE.md) &nbsp;·&nbsp; [**Gameplay Preview**](#gameplay-preview)
 
-<a href="https://github.com/EmilUnityDev/GoldenTrain/releases/tag/v1.0.0-portfolio">
-  <img src="docs/media/GoldenTrain_Cover.png" alt="Golden Train — trailer cover" width="100%" />
-</a>
 
-<sub>Click the cover to view the 43-second trailer on the Portfolio Showcase release page.</sub>
 
 </div>
+
+## Gameplay trailer
+
+https://github.com/user-attachments/assets/19c50730-65ec-44c9-8f38-9f6a49fc578a
+
+*Play the 43-second trailer directly here. For the full-resolution version, see the [1080p trailer on the Portfolio Showcase release](https://github.com/EmilUnityDev/GoldenTrain/releases/tag/v1.0.0-portfolio).*
+
+## Gameplay preview
+
+<div align="center">
+  <img src="docs/media/GoldenTrain_Gameplay.gif" alt="Golden Train — cascading gameplay leading to Super Win" width="300" />
+</div>
+
 
 ## Overview
 
@@ -25,12 +34,6 @@
 The game combines the central slot-style loop with active skills, a train-themed multiplier bonus game, tutorials, progression, and UI-driven rewards.
 
 > **Portfolio context:** This is an offline adaptation of a commercially developed **team project**. It demonstrates its gameplay and technical structure; it does not imply sole authorship of every script or asset.
-
-## Gameplay preview
-
-<div align="center">
-  <img src="docs/media/GoldenTrain_Gameplay.gif" alt="Golden Train — cascading gameplay leading to Super Win" width="300" />
-</div>
 
 ### Core gameplay loop
 
