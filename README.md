@@ -40,11 +40,11 @@ The game combines the central slot-style loop with active skills, a train-themed
 **SPIN → SYMBOL COMBINATIONS → CASCADE → MORE WINS → TOTAL WIN**
 
 - **Spin-driven gameplay** - A state-based spin loop controls spinning, stopping, calculation, and result handling.
-- **Cascading wins** — Matched symbols disappear; the board drops and refills symbols, allowing additional winning sequences during the same spin.
-- **Scoring & multipliers** — Paytable and winning-symbol calculations feed a dedicated score service, with bonus score handling and win presentation.
-- **Active skills** — Gameplay abilities can influence the symbols and board during a run.
-- **Train-themed bonus round** — The *Luxury Wagons* minigame awards multipliers as players reveal wagons.
-- **Progression** — Tutorial, collection, currency, daily quests, and menu interfaces connect the rounds into a larger mobile game experience.
+- **Cascading wins** - Matched symbols disappear; the board drops and refills symbols, allowing additional winning sequences during the same spin.
+- **Scoring & multipliers** - Paytable and winning-symbol calculations feed a dedicated score service, with bonus score handling and win presentation.
+- **Active skills** - Gameplay abilities can influence the symbols and board during a run.
+- **Train-themed bonus round** - The *Luxury Wagons* minigame awards multipliers as players reveal wagons.
+- **Progression** - Tutorial, collection, currency, daily quests, and menu interfaces connect the rounds into a larger mobile game experience.
 
 ## Screenshots
 
@@ -77,13 +77,13 @@ The game combines the central slot-style loop with active skills, a train-themed
 
 ### Code worth exploring
 
-- [`SpinSystem.cs`](Assets/SpinSystem/SpinSystem.cs) — orchestrates the spin state machine.
-- [`CalculationState.cs`](Assets/SpinSystem/States/CalculationState.cs) — win calculation, cascading drop/refill, and related flow.
-- [`SlotGameManager.cs`](Assets/SlotsLogic/Match3Slots/Scripts/Core/SlotGameManager.cs) — board configuration, symbol generation, and dependency wiring.
-- [`ScoreService.cs`](Assets/Game/Scripts/Services/Score/ScoreService.cs) — score aggregation, multipliers, and score events.
-- [`LuxuryWagonsBonusGame.cs`](Assets/Game/Scripts/MiniGame/LuxuryWagonsBonusGame.cs) — bonus wagon mechanics and multiplier handling.
-- [`ProjectLifetimeScope.cs`](Assets/Game/Scripts/Game/GameRoot/ProjectLifetimeScope.cs) — shared service registration.
-- [`LocalMatchManager.cs`](Assets/Game/Scripts/Gameplay/LocalMatch/LocalMatchManager.cs) — local match completion in the portfolio edition.
+- [`SpinSystem.cs`](Assets/SpinSystem/SpinSystem.cs) - orchestrates the spin state machine.
+- [`CalculationState.cs`](Assets/SpinSystem/States/CalculationState.cs) - win calculation, cascading drop/refill, and related flow.
+- [`SlotGameManager.cs`](Assets/SlotsLogic/Match3Slots/Scripts/Core/SlotGameManager.cs) - board configuration, symbol generation, and dependency wiring.
+- [`ScoreService.cs`](Assets/Game/Scripts/Services/Score/ScoreService.cs) - score aggregation, multipliers, and score events.
+- [`LuxuryWagonsBonusGame.cs`](Assets/Game/Scripts/MiniGame/LuxuryWagonsBonusGame.cs) - bonus wagon mechanics and multiplier handling.
+- [`ProjectLifetimeScope.cs`](Assets/Game/Scripts/Game/GameRoot/ProjectLifetimeScope.cs) - shared service registration.
+- [`LocalMatchManager.cs`](Assets/Game/Scripts/Gameplay/LocalMatch/LocalMatchManager.cs) - local match completion in the portfolio edition.
 
 See the [Architecture Overview](docs/ARCHITECTURE.md) for the broader scene flow and module responsibilities.
 
