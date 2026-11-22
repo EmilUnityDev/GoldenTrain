@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24e51f41f3934a8390cbd5e3eae2b561, type: 3}
+  m_Name: SlotGameConfig
+  m_EditorClassIdentifier: 
+  Rows: 5
+  Columns: 4
+  CellSizeX: 2.5
+  CellSizeY: 2.4
+  DropDuration: 0.25
+  DropExtraWait: 0.05
+  SpawnDuration: 0.3
+  DestructionWaitTime: 0.5
+  SymbolDestructionFadeDuration: 0.65
+  SymbolAnimationMinSpeed: 0.7
+  SymbolAnimationMaxSpeed: 1.3
+  SpinFlyOutDuration: 0.5
+  SpinColumnStaggerDelay: 0.1
+  SpinSymbolMoveDuration: 0.3
+  SpinExtraWait: 0.1
+  BasicMinMatchLength: 5
+  SymbolCountThreshold: 5
+  ClearBoardColumnDelay: 0.3
+  DelayBeforeDestroy: 0
+  SpinDuration: 3
+  StoppingDuration: 0.1
+  ReelSpinSpeed: 30
+  SpinStepDelay: 0
