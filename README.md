@@ -8,13 +8,13 @@
 
 *Spin the symbols. Trigger cascades. Chase the next big win.*
 
-[**▶ Watch the Gameplay Trailer**](docs/media/GoldenTrain_Trailer.mp4) &nbsp;·&nbsp; [**Explore the Architecture**](docs/ARCHITECTURE.md) &nbsp;·&nbsp; [**Gameplay Preview**](#gameplay-preview)
+[**▶ Download the Gameplay Trailer (MP4)**](https://github.com/EmilUnityDev/GoldenTrain/raw/refs/heads/main/docs/media/GoldenTrain_Trailer.mp4) &nbsp;·&nbsp; [**Explore the Architecture**](docs/ARCHITECTURE.md) &nbsp;·&nbsp; [**Gameplay Preview**](#gameplay-preview)
 
-<a href="docs/media/GoldenTrain_Trailer.mp4">
+<a href="https://github.com/EmilUnityDev/GoldenTrain/raw/refs/heads/main/docs/media/GoldenTrain_Trailer.mp4">
   <img src="docs/media/GoldenTrain_Cover.png" alt="Golden Train — trailer cover" width="100%" />
 </a>
 
-<sub>Click the cover to open the 43-second gameplay trailer.</sub>
+<sub>Click the cover to download the 43-second gameplay trailer (MP4).</sub>
 
 </div>
 
