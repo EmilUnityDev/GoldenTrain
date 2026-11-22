@@ -39,7 +39,7 @@ The game combines the central slot-style loop with active skills, a train-themed
 
 **SPIN → SYMBOL COMBINATIONS → CASCADE → MORE WINS → TOTAL WIN**
 
-- **Spin-driven gameplay** — A state-based spin loop controls spinning, stopping, calculation, and result handling.
+- **Spin-driven gameplay** - A state-based spin loop controls spinning, stopping, calculation, and result handling.
 - **Cascading wins** — Matched symbols disappear; the board drops and refills symbols, allowing additional winning sequences during the same spin.
 - **Scoring & multipliers** — Paytable and winning-symbol calculations feed a dedicated score service, with bonus score handling and win presentation.
 - **Active skills** — Gameplay abilities can influence the symbols and board during a run.
